@@ -1,16 +1,29 @@
-# flutter_application_1
+# 🐝 Gispy Bee - Flutter E-commerce UI Kit
 
-A new Flutter project.
+A modern, clean, and responsive **E-commerce UI** built with **Flutter**. This project showcases a professional shopping experience with a focus on sleek design and smooth navigation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+* **Modern UI/UX:** Clean and intuitive design patterns using Flutter widgets.
+* **Category Browsing:** Easy navigation through categories like Clothes, Electronics, and more.
+* **Best Selling Section:** Grid-based layout for showcasing trending products.
+* **Product Details Page:** Comprehensive view with price, color selection, and size options.
+* **Custom Navigation:** Interactive bottom navigation bar for a seamless user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+* **Framework:** [Flutter](https://flutter.dev)
+* **Language:** [Dart](https://dart.dev)
+* **Design Pattern:** Component-based UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+| Home Screen | Product Details |
+|---|---|
+| ![Home Screen](https://via.placeholder.com/300x600?text=Home+Screen) | ![Product Details](https://via.placeholder.com/300x600?text=Details+Screen) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> **Note:** To show your real app images, upload your screenshots to a folder in this repo and update the links above.
+
+## 🚀 How to Run the Project
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/amer-kriany/flutter-ecommerce-ui.git](https://github.com/amer-kriany/flutter-ecommerce-ui.git)
