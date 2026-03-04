@@ -19,7 +19,7 @@ A modern, clean, and responsive **E-commerce UI** built with **Flutter**. This p
 ## 📸 Screenshots
 | Home Screen | Product Details |
 |---|---|
-| ![Home Screen](assets/images/home.png) | ![Product Details](assets/images/details.png) |
+| ![Home Screen](assets/images/HomePage.png) | ![Product Details](assets/images/Product_Details.png) |
 
 ## 🚀 How to Run the Project
 1. **Clone the repository:**
